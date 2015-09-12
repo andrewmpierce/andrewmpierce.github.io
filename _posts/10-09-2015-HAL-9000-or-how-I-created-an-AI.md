@@ -43,6 +43,4 @@ All in all, this was a pretty interesting project and while I found it difficult
 at first to wrap my head around how to make this work, I ended up really enjoying
 the project and feeling pretty good about it.
 
-If you want to check out my code, it's on Github.
-
-[](https://github.com/andrewmpierce/game-of-sticks)
+If you want to check out my code, it's on [Github.](https://github.com/andrewmpierce/game-of-sticks)
