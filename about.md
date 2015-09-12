@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-
 <img src="../images/ashleyandi.jpg" alt="Ashley and I" style="width: 200px;"/>
 
 # Who am I and how did I get here?
