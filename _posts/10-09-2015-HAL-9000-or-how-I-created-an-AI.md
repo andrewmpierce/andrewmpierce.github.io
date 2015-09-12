@@ -45,4 +45,4 @@ the project and feeling pretty good about it.
 
 If you want to check out my code, it's on Github.
 
-https://github.com/andrewmpierce/game-of-sticks
+(https://github.com/andrewmpierce/game-of-sticks)
