@@ -19,5 +19,3 @@ This week has also made me very happy in general that I chose to take the Python
 </code></pre>
 
 I find this has been a godsend because overall I spend very little time hunting down syntax errors. Everything is very intuitive.
-
-Having Ashley around in general has been fantastic. One, I find she is a great tutor at night because she doesn't give me too much help in that my solutions are all completely independent. She might talk me through problems I'm having or be able to hunt down logic errors I'm having, but she's never tried to give me an exact line of code.
