@@ -3,6 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
+
+
+![Alt text](/apierce/Pictures/ashleyandi.jpg "Ashley and I at a Durham Bulls game")
+
 ## Who am I and how did I get here?
 
 I am a 2015 graduate of UNC Chapel Hill's biology program. At some point in my senior year I became fascinated with programming and computer science and the elegant complexity and logic involved with the discipline. As I didn't have enough semesters left at UNC to pursue a double major or minor in computer science, I decided to enroll in the Python course at The Iron Yard code school in Durham, NC to pursue this interest and augment my biology background before entering the workforce.
