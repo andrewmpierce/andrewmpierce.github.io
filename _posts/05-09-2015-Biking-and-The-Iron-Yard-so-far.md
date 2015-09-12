@@ -1,13 +1,11 @@
 ---
+layout: post
 published: true
-categories: posts
 ---
 
 
 
 ## On The Iron Yard and why biking is great
-
-### September 5, 2015
 
 It's officially been a week at The Iron Yard and so far it's been a great
 experience. I've been learning an immense amount and putting in a lot of work,
