@@ -39,7 +39,7 @@ to raise an exception error. The code I ended up actually using looks like this:
 valid_args = [arg for arg in args if len(arg) == length]
     if len(valid_args) != len(args):
         raise ShapeException
-</pre></code>
+</code></pre>
 
 In this piece of code, I'm working with a comprehension in a more correct way.
 This first step is adding the arg in the sequence of args to a string called
@@ -47,4 +47,4 @@ valid_args, it's 'collecting' it. Then I can do a simple if statement and raise
 the same exception if the lengths of all the args and the valid_args doesn't match.
 
 It was a very frustrating way to learn how comprehensions actually work, but I have
-to say, I think I get it now. 
+to say, I think I get it now.
