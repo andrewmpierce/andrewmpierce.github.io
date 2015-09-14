@@ -1,6 +1,7 @@
 ---
 layout: post
 published: true
+title: Week One Overview
 ---
 
 ## Week One Overview

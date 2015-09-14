@@ -1,6 +1,7 @@
 ---
 layout: post
 published: true
+title: List Comprehensions
 ---
 #The Process of Learning What I Thought I Understood
 
