@@ -13,8 +13,7 @@ pretty easy to program (who would have thought I would be saying that in less th
 two weeks?) and I finished it quickly. The fun part was creating a computer player
 that 'learned' after every game.
 
-The setup was surprisingly simple. Our AI, we'll call them HAL, starts the game
-session with a dictionary where every key is a possible remaining number of sticks
+The setup was surprisingly simple, and James, our instructor, gave us the blueprint for our simple AI. Our AI, we'll call them HAL, starts the game session with a dictionary where every key is a possible remaining number of sticks
 and the corresponding value is a list of the options it will choose from randomly.
 
 So at the beginning our first game, HAL's playbook is filled with a bunch of [1, 2, 3]
