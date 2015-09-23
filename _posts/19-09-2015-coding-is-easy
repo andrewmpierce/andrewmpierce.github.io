@@ -1,0 +1,16 @@
+---
+layout: post
+published: true
+title: Coding is Easy! Programming is Hard...
+---
+## It's the end of Week 3 at The Iron Yard!
+
+I've learned a lot at The Iron Yard in the past three weeks. I've learned what most would consider the basics of any programming language: loops, variables, classes, functions, methods and how they fit together. I've also made a lot of projects and learned a lot from those.
+
+My biggest Aha! moment came the other day. I realized that coding isn't hard!
+
+When I say coding, I mean physically writing a program. Putting lines of code into my computer and seeing the output. It's not difficult. I can ask my computer to calculate or do pretty much anything. Syntax is easy. Even this low level logic isn't too bad. If this, then do that. While X is happening, do Y. For every item in this list, do this to it.
+
+The hard part, and the reason that developers are so sought after, is the programming! When I say programming, I mean how I'm structuring my program. How am I going to break this impossible sounding project into a bunch of little bite size pieces that I can then code.
+
+My homework for this weekend is to make a traffic simulator. The general premise is to make a simulator for a one lane road with drivers that have a 10% chance of slowing down and also want to keep a reasonable distance from the car ahead of them. It's sounds a lot like real life! 

@@ -15,6 +15,7 @@ a tough problem, I feel like I'm on Adderrall, even though I haven't taken anyth
 I'm incredibly focused and block out everything that's going on in our lab space
 very easily.
 
+
 I find myself putting in an immense amount of time, but I don't even notice.
 Generally I'm up at about 7:30, am in class by 9:00, and am working in some
 capacity until at least 8:00 at night. On the weekends I'm probably spending 5-6
