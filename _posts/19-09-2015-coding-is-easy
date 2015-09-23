@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Coding is Easy! Programming is Hard...
 ---
 ## It's the end of Week 3 at The Iron Yard!
@@ -13,4 +13,4 @@ When I say coding, I mean physically writing a program. Putting lines of code in
 
 The hard part, and the reason that developers are so sought after, is the programming! When I say programming, I mean how I'm structuring my program. How am I going to break this impossible sounding project into a bunch of little bite size pieces that I can then code.
 
-My homework for this weekend is to make a traffic simulator. The general premise is to make a simulator for a one lane road with drivers that have a 10% chance of slowing down and also want to keep a reasonable distance from the car ahead of them. It's sounds a lot like real life! 
+My homework for this weekend is to make a traffic simulator. The general premise is to make a simulator for a one lane road with drivers that have a 10% chance of slowing down and also want to keep a reasonable distance from the car ahead of them. It's sounds a lot like real life!

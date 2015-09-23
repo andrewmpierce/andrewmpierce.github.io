@@ -4,6 +4,7 @@ published: true
 title: Week Four at The Iron Yard
 ---
 
+
 Wow! Today I realized that as of tomorrow, I'll be halfway done with the lecture
 component of The Iron Yard. After that comes a three week sprint for before Demo
 Day and then some kind of super awesome Python/Data/Bio job. So what have I learned?
