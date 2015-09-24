@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-![Ashley and I](/images/ashleyandi.jpg?raw=true)
 
 
 # Who am I and how did I get here?
