@@ -27,7 +27,7 @@ top is probably a little more immediately appealing to me.
 [here](https://github.com/open-source-society/computer-science).
 There is significant overlap between the two curriculums and I feel like they both
 address a computer science track very effectively. I've decided to create a separate
-post ![here]() with a breakdown of the courses I'm currently enrolled in and the ones
+post ![here](http://andrewmpierce.io/2015/10/10/Courses-Im-Taking.html) with a breakdown of the courses I'm currently enrolled in and the ones
 I've completed.
 
 2. Learn R and brush up on my statistics knowledge base. I took a few stat courses
