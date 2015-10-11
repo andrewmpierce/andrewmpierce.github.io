@@ -1,7 +1,7 @@
 ---
 layout: post
 published: True
-title: Into to Django and Web Development
+title: Intro to Django and Web Development
 ---
 # My first taste of web development: What is any of this?
 

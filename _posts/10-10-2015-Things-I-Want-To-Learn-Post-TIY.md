@@ -27,8 +27,8 @@ top is probably a little more immediately appealing to me.
 [here](https://github.com/open-source-society/computer-science).
 There is significant overlap between the two curriculums and I feel like they both
 address a computer science track very effectively. I've decided to create a separate
-post [here](http://andrewmpierce.io/2015/10/10/Courses-Im-Taking.html) with a breakdown of the courses I'm currently enrolled in and the ones
-I've completed.
+post [here](http://andrewmpierce.io/2015/10/10/Courses-Im-Taking.html) with a breakdown of the courses I'm currently enrolled in and the ones I've completed. I expect this to take several years, assuming I'm taking
+these courses part time while working full time and working on other projects.
 
 2. Learn R and brush up on my statistics knowledge base. I took a few stat courses
 in college so I definitely feel like I was ahead of a lot of my class in that regard,
@@ -45,13 +45,15 @@ some good books on the topic and explore it with some personal projects.
 5. Get an ideal workflow to be as efficient as possible, exploring Vim, more command
 line tools and getting more comfortable with it.
 
-6. Learn a second (then third, fourth .....) language. Eventually I'd like to
-learn Ruby for sure, as I really love the Ruby community that I've been exposed
+6. Learn more languages. I mentioned learning R and that's just the beginning.
+Eventually I'd like to learn Ruby for sure, as I really love the Ruby community
+that I've been exposed
 to. I'd also like to explore Haskell, as I've seen that very commonly recommended
-for python programmers as a first functional language. I've heard a lot about the
+for Python programmers as a first functional language. I've heard a lot about the
 value of learning at least some C in order to understand more modern languages,
 so that's on my list as well. Also I see a lot of utility in learning C sharp or
-C++. Although given the time, I'd want to learn every single language possible.
+C++. Although given an infinite amount of  time, I'd want to learn every single
+language possible.
 
 7. Rebuild this blog with Django. I'd like to play with Django more as well as
 HTML and CSS and even some Javascript. It seems like the perfect opportunity! The
