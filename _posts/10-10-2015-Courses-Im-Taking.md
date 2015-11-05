@@ -1,6 +1,6 @@
 ---
 layout: post
-published: True
+published: False
 title: Online Courses I've Taken or are Currently Enrolled in
 ---
 # All Courses

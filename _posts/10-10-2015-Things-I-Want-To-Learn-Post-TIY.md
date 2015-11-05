@@ -26,9 +26,9 @@ top is probably a little more immediately appealing to me.
 1. Work through suggested online curriculums posted [here](http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html) and
 [here](https://github.com/open-source-society/computer-science).
 There is significant overlap between the two curriculums and I feel like they both
-address a computer science track very effectively. I've decided to create a separate
-post [here](http://andrewmpierce.io/2015/10/10/Courses-Im-Taking.html) with a breakdown of the courses I'm currently enrolled in and the ones I've completed. I expect this to take several years, assuming I'm taking
-these courses part time while working full time and working on other projects.
+address a computer science track very effectively. I expect
+this to take several years, assuming I'm taking these courses part time while
+working full time and working on other projects.
 
 2. Learn R and brush up on my statistics knowledge base. I took a few stat courses
 in college so I definitely feel like I was ahead of a lot of my class in that regard,
