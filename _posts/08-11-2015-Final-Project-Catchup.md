@@ -1,7 +1,7 @@
 ---
 layout: post
 published: True
-title: Final Project Catchup. AKA So Busy!
+title: Final Project Catchup
 ---
 
 WOW! I just realized I haven't written a blog post in a month. I've really just been
