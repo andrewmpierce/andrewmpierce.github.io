@@ -2,6 +2,7 @@
 layout: post
 published: false
 title: Switching Gears and Starting Fresh on Projects
+comments: True
 ---
 ## I Deleted Everything and Started Over
 

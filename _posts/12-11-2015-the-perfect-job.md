@@ -2,6 +2,7 @@
 layout: post
 published: True
 title: The Perfect Job
+comments: True
 ---
 
 I officially have a week left at The Iron Yard. Time has really flown by! At this point,

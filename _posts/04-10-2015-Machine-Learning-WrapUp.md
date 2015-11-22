@@ -2,6 +2,7 @@
 layout: post
 published: True
 title: Data Science/Machine Learning Wrap Up
+comments: True
 ---
 # Feelings: Sad, but also excited!
 

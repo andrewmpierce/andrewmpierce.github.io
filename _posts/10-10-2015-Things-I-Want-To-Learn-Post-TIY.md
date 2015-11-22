@@ -2,6 +2,7 @@
 layout: post
 published: True
 title: Things I want to explore post TIY
+comments: True
 ---
 # OMG SO MUCH TO LEARN
 

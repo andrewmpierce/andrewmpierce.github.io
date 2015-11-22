@@ -2,6 +2,7 @@
 layout: post
 published: True
 title: Intro to Django and Web Development
+comments: True
 ---
 # My first taste of web development: What is any of this?
 

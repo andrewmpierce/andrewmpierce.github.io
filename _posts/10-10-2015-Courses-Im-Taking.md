@@ -2,6 +2,7 @@
 layout: post
 published: False
 title: Online Courses I've Taken or are Currently Enrolled in
+comments: True
 ---
 # All Courses
 

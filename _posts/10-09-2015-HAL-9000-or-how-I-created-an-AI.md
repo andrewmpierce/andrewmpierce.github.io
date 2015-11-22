@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: HAL 9000, or how I made an AI
+comments: True
 ---
 ## Today I simulated intelligence
 

@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: Week Four at The Iron Yard
+comments: True
 ---
 
 

@@ -2,6 +2,7 @@
 layout: post
 published: True
 title: Final Project Catchup
+comments: True
 ---
 
 WOW! I just realized I haven't written a blog post in a month. I've really just been

@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: List Comprehensions
+comments: True
 ---
 #The Process of Learning What I Thought I Understood
 
