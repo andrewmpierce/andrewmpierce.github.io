@@ -9,7 +9,7 @@ title: Demo Day Recap
 
 
 This past Friday my cohort wrapped up our Iron Yard experience with Demo Day. It was
-great! My project, Ziptrip, went first and we had a pretty good presentation and got
+a great experience. My project, Ziptrip, went first and we had a pretty good presentation and got
 a lot of positive feedback from the employers there. It was a really great experience
 to see people really like it! I liked that people thought it was as cool as I think
 it is.
