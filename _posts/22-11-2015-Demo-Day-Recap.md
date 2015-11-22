@@ -2,6 +2,7 @@
 layout: post
 published: True
 title: Demo Day Recap
+comments: True
 ---
 [You can watch my demo here!](https://vimeo.com/146457267)
 
