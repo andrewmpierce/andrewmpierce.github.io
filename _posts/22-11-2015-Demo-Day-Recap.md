@@ -6,8 +6,6 @@ comments: True
 ---
 [You can watch my demo here!](https://vimeo.com/146457267)
 
-[Plan your own trip here](ziptrip.firebaseapp.com)
-
 
 This past Friday my cohort wrapped up our Iron Yard experience with Demo Day. My project, Ziptrip, went first and we had a pretty good presentation and got
 a lot of positive feedback from the employers there. It was great validation to see such positive reactions to a project I've worked so hard on the past three weeks.
