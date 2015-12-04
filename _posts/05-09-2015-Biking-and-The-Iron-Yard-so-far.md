@@ -12,7 +12,7 @@ comments: True
 It's officially been a week at The Iron Yard and so far it's been a great
 experience. I've been learning an immense amount and putting in a lot of work,
 and it's all been incredibly enjoyable. Whenever I'm programming and working through
-a tough problem, I feel like I'm on Adderrall, even though I haven't taken anything.
+a tough problem, I feel like I've taken Adderall, even though I haven't been anywhere near the stuff.
 I'm incredibly focused and block out everything that's going on in our lab space
 very easily. I feel as though I've never been so focused on any task before. I guess thats what happens when you enjoy doing something?
 
