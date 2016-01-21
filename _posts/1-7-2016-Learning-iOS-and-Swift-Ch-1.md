@@ -1,6 +1,6 @@
 ---
 layout: post
-published: True
+published: False
 title: Learning iOS development and Swift! Chapter 1 Overview
 comments: True
 ---
