@@ -1,3 +1,4 @@
+---
 layout: post
 published: True
 title: Learning Rails Day 1
