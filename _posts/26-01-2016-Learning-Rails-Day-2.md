@@ -14,4 +14,4 @@ What I'm going to do today:
 This is being posted fairly late, but I intend to spend the rest of the night working on a code sample for the position I interviewed for today.
 
 What I expect to learn:
-How to put out an awesome code sample doing things I have done before with Perl!
+How to put out an awesome code sample doing things I haven't done before with Perl!
