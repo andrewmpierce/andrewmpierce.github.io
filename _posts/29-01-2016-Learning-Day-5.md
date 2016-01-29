@@ -1,10 +1,10 @@
 ---
 layout: post
 published: true
-title: Learning Day 4
+title: Learning Day 5
 comments: True
 ---
-I decided to retitle what I'm doing as just "Learning Day whatever". While I'm focusing a lot of attention on Rails, I'm also doing other stuff, like working on my javascript skills and studying Perl. 
+I decided to retitle what I'm doing as just "Learning Day whatever". While I'm focusing a lot of attention on Rails, I'm also doing other stuff, like working on my javascript skills and studying Perl.
 
 
 What I learned yesterday:
