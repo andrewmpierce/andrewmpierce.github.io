@@ -4,6 +4,8 @@ published: true
 title: Learning Day 4
 comments: True
 ---
+I decided to retitle what I'm doing as just "Learning Day whatever". While I'm focusing a lot of attention on Rails, I'm also doing other stuff, like working on my javascript skills and studying Perl. 
+
 
 What I learned yesterday:
 Yesterday I finished up Ch. 3 of Rails Tutorial and got a solid start on Ch.4, Rails Flavored Ruby. I also read the first chapter of Eloquent Javascript, as I'm trying to brush up on JS before I start a really exciting full stack opportunity.
