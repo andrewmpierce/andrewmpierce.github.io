@@ -1,7 +1,7 @@
 ---
 layout: post
 published: False
-title: Learning by Doing
+title: Sandi Metz and the Importance of Grit
 comments: True
 ---
 
@@ -32,4 +32,4 @@ Sometimes I find myself discouraged with how little I know about programming and
 but more experienced developers can do things in 10 minutes that would literally take me days to
 figure out, if I was able to at all. That can definitely be frustrating, but I have to remind myself that that
 developer can do it in ten minutes because they've done this exact same thing fifteen times in their career!
-There's a good chance that the first time they tried, it took them days to finish. 
+There's a good chance that the first time they tried, it took them days to finish.
