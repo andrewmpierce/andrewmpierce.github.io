@@ -5,7 +5,7 @@ title: Sandi Metz and the Importance of Grit
 comments: True
 ---
 
-One of my favorite local meetups to go to is (Triangle.rb)[http://www.meetup.com/raleighrb/].
+One of my favorite local meetups to go to is [Triangle.rb](http://www.meetup.com/raleighrb/).
 As the name suggests, it's a meetup for local Rubyists. Ruby is a language that I'm trying to
 learn more of, and I love the Ruby and Rails community. Triangle.rb has speakers every month,
 and after a cancellation this month, Sandi Metz filled in!
