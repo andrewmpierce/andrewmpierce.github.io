@@ -83,6 +83,11 @@ cutting edge technology, and while there are still COBOL jobs out there to suppo
 aren't many people who would say learning COBOL and taking a COBOL job is good for your career. That being said,
 COBOL has enjoyed a much longer life than most languages ever will.
 
-Right now, functional programming languages are getting a lot of buzz. It's hard to say whether or not trend will
-pan out in the next few years and we'll see a shift in the languages that companies are using, but a lot of people
-in the community are spending time learning about these new languages because they think the industry is headed that way.
+Right now, functional programming languages like Elixir, Clojure, and Rust are getting a lot of buzz. It's hard to
+say whether or not trend will pan out in the next few years and we'll see a shift in the languages that companies are
+using, but a lot of people in the community are spending time learning about these new languages because they think
+the industry is headed that way. There are very clear benefits to these languages, mostly in speed increases compared to
+languages like Ruby or Python.
+
+Whether or not these languages end up becoming widely used is anyone's guess, but learning one of them is a good way to
+hedge your bets. 
