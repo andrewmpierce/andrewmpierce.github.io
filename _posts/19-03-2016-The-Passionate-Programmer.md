@@ -71,10 +71,18 @@ we increase our ability to succeed in those goals.
 Tip 44) Already obsolete
 
 I think many people can agree with me in saying that one of the coolest and most enticing
-things about technology as an industry and an entity, is that its constantly growing and evolving
+things about technology as an industry and an entity, is that it's constantly growing and evolving
 and moving forward. It's hard to say where the industry will be at in 2-5 years, and next to
 impossible to say where it will be at in 10, 15 or 30+ years.
 
 The reverse of this is that every skillset you currently know will be obsolete at some point. Languages
 and frameworks that are incredibly popular right now will eventually become less and less popular and face a
-shrinking job market until they're all but gone from popular use.
+shrinking job market until they're all but gone from popular use. Being a master in outdated technology has it's
+niche market, but its not where most of us want to be with our careers. There was a time when COBOL was
+cutting edge technology, and while there are still COBOL jobs out there to support existing legacy code, there
+aren't many people who would say learning COBOL and taking a COBOL job is good for your career. That being said,
+COBOL has enjoyed a much longer life than most languages ever will.
+
+Right now, functional programming languages are getting a lot of buzz. It's hard to say whether or not trend will
+pan out in the next few years and we'll see a shift in the languages that companies are using, but a lot of people
+in the community are spending time learning about these new languages because they think the industry is headed that way.
