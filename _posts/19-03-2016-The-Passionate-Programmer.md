@@ -89,5 +89,10 @@ using, but a lot of people in the community are spending time learning about the
 the industry is headed that way. There are very clear benefits to these languages, mostly in speed increases compared to
 languages like Ruby or Python.
 
-Whether or not these languages end up becoming widely used is anyone's guess, but learning one of them is a good way to
-hedge your bets. 
+Whether or not this particular trend becomes widespread is hard to say, but its definitely worth your time
+to study something thats getting some buzz.
+
+
+
+I really enjoyed reading The Passionate Programmer. It's made me look at my career and personal development
+from the outside in. How do I want my career to go and  
