@@ -63,4 +63,18 @@ still on the ground.
 However, this isn't very productive. We don't get any closer to the next rung up by thinking
 how nice that spot is. We get closer by doing really well at the rung we're at until we're
 ready to take the next step up. By being mindful and present in our current roles,
-we make future accomplishments happen, one day at a time.
+we make future accomplishments happen, one day at a time. While it seems counterintuitive to
+some degree, Fowler suggests that by putting away our career goals, at least on a daily basis,
+we increase our ability to succeed in those goals.
+
+
+Tip 44) Already obsolete
+
+I think many people can agree with me in saying that one of the coolest and most enticing
+things about technology as an industry and an entity, is that its constantly growing and evolving
+and moving forward. It's hard to say where the industry will be at in 2-5 years, and next to
+impossible to say where it will be at in 10, 15 or 30+ years.
+
+The reverse of this is that every skillset you currently know will be obsolete at some point. Languages
+and frameworks that are incredibly popular right now will eventually become less and less popular and face a
+shrinking job market until they're all but gone from popular use.
