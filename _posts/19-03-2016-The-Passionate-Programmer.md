@@ -95,4 +95,6 @@ to study something thats getting some buzz.
 
 
 I really enjoyed reading The Passionate Programmer. It's made me look at my career and personal development
-from the outside in. How do I want my career to go and  
+from the outside in. I've thought about my career quite  bit over the past few months, but
+reading The Passionate Programmer has given me a much more structured way to view it and real
+concrete ideas with which to shape my career.
