@@ -3,7 +3,7 @@ layout: page
 title: Bookshelf
 permalink: /bookshelf/
 ---
-<h6>-- Last Updated 3/24/2016</h6>
+<h4>-- Last Updated 3/24/2016</h4>
 
 
 <h1> What I'm currently reading </h1>
