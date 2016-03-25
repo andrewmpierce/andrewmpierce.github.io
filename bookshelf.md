@@ -3,6 +3,8 @@ layout: page
 title: Bookshelf
 permalink: /bookshelf/
 ---
+<h3>-- Last Updated 3/24/2016</h3>
+
 <h1> What I'm currently reading </h1>
 Learn C The Hard Way, Zed Shaw
 
