@@ -13,9 +13,9 @@ Learn C The Hard Way, Zed Shaw
 <h1> What I've read </h1>
 Apprenticeship Patterns, Dave Hoover and Adewale Oshinye
 
-The Passionate Programmer, Chad Fowler
+[The Passionate Programmer, Chad Fowler](http://andrewmpierce.io/2016/03/21/The-Passionate-Programmer.html)
 
-The Pragmatic Programmer, Andy Hunt and Dave Thomas
+[The Pragmatic Programmer, Andy Hunt and Dave Thomas](http://andrewmpierce.io/2015/11/29/The-Pragmatic-Programmer.html)
 
 Learn Python the Hard Way, Zed Shaw
 
