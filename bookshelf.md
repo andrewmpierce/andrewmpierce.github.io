@@ -3,11 +3,11 @@ layout: page
 title: Bookshelf
 permalink: /bookshelf/
 ---
-<h4>-- Last Updated 3/24/2016</h4>
+<h4>-- Last Updated 3/29/2016</h4>
 
 
 <h1> What I'm currently reading </h1>
-Learn C The Hard Way, Zed Shaw
+Learn C The Hard Way, Zed Shaw / Clean Code, Robert C. Martin
 
 
 <h1> What I've read </h1>
