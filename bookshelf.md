@@ -3,15 +3,18 @@ layout: page
 title: Bookshelf
 permalink: /bookshelf/
 ---
-<h4>-- Last Updated 3/29/2016</h4>
+<h4>-- Last Updated 4/2/2016</h4>
 
 
 <h1> What I'm currently reading </h1>
-Learn C The Hard Way, Zed Shaw / Clean Code, Robert C. Martin
+Learn C The Hard Way, Zed Shaw
 
 
 <h1> What I've read </h1>
-Apprenticeship Patterns, Dave Hoover and Adewale Oshinye
+
+Clean Code, Robert C. Martin
+
+[Apprenticeship Patterns, Dave Hoover and Adewale Oshinye](http://andrewmpierce.io/2016/03/27/Apprenticeship-Patterns.html)
 
 [The Passionate Programmer, Chad Fowler](http://andrewmpierce.io/2016/03/21/The-Passionate-Programmer.html)
 
