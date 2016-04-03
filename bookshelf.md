@@ -7,7 +7,8 @@ permalink: /bookshelf/
 
 
 <h1> What I'm currently reading </h1>
-Learn C The Hard Way, Zed Shaw
+Learn C The Hard Way, Zed Shaw / The Mythical Man-Month, Frederick P. Brooks
+
 
 
 <h1> What I've read </h1>
@@ -23,7 +24,6 @@ Clean Code, Robert C. Martin
 Learn Python the Hard Way, Zed Shaw
 
 <h1> What I'd like to read </h1>
-The Mythical Man-Month, Frederick P. Brooks
 
 Eloquent Javascript, Marjin Haverbeke
 
