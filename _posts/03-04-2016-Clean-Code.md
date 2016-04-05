@@ -1,7 +1,7 @@
 ---
 layout: post
 published: True
-title: Clean code
+title: Clean Code
 comments: True
 ---
 

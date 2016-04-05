@@ -13,7 +13,7 @@ Learn C The Hard Way, Zed Shaw / The Mythical Man-Month, Frederick P. Brooks
 
 <h1> What I've read </h1>
 
-Clean Code, Robert C. Martin
+[Clean Code, Robert C. Martin](http://andrewmpierce.io/2016/04/03/Clean-Code.html)
 
 [Apprenticeship Patterns, Dave Hoover and Adewale Oshinye](http://andrewmpierce.io/2016/03/27/Apprenticeship-Patterns.html)
 
