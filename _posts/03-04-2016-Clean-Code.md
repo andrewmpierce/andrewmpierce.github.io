@@ -1,6 +1,6 @@
 ---
 layout: post
-published: False
+published: True
 title: Clean code
 comments: True
 ---
