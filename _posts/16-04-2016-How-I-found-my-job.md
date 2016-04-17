@@ -1,7 +1,7 @@
 ---
 layout: post
 published: True
-title: Tips on how to find a job after code school.
+title: Tips on how to find a job after code school
 comments: True
 ---
 I graduated from The Iron Yard, a code school in Durham, NC, right before Thanksgiving of 2015. I started at my first development job about 2.5 months later, and at the time I'm writing this, I've been there about three months.
