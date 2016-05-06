@@ -9,7 +9,6 @@ permalink: /bookshelf/
 <h1> What I'm currently reading </h1>
 Peopleware, Tom Demarco and Tim Lister
 
-
 <h1> What I've read </h1>
 
 [Clean Code, Robert C. Martin](http://andrewmpierce.io/2016/04/03/Clean-Code.html)
