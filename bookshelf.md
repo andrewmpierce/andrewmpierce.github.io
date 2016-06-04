@@ -3,13 +3,17 @@ layout: page
 title: Bookshelf
 permalink: /bookshelf/
 ---
-<h4>-- Last Updated 5/1/2016</h4>
+<h4>-- Last Updated 6/4/2016</h4>
 
 
 <h1> What I'm currently reading </h1>
-Peopleware, Tom Demarco and Tim Lister
+
+Practical Object Oriented Design in Ruby, Sandi Metz
+
 
 <h1> What I've read </h1>
+
+Peopleware, Tom Demarco and Tim Lister
 
 [Clean Code, Robert C. Martin](http://andrewmpierce.io/2016/04/03/Clean-Code.html)
 
@@ -28,8 +32,6 @@ Learn Python the Hard Way, Zed Shaw
 Eloquent Javascript, Marjin Haverbeke
 
 Javascript: The Good Parts, Douglas Crockford
-
-Practical Object Oriented Design in Ruby, Sandi Metz
 
 Learn SQL the Hard Way, Zed Shaw
 
