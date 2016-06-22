@@ -3,7 +3,7 @@ layout: page
 title: Bookshelf
 permalink: /bookshelf/
 ---
-<h4>-- Last Updated 6/4/2016</h4>
+<h4>-- Last Updated 6/14/2016</h4>
 
 
 <h1> What I'm currently reading </h1>
@@ -25,17 +25,11 @@ Peopleware, Tom Demarco and Tim Lister
 
 The Mythical Man Month, Frederick P. Brooks
 
-Learn Python the Hard Way, Zed Shaw
-
-<h1> What I'd like to read </h1>
+<h1> What I'd like to read next </h1>
 
 Eloquent Javascript, Marjin Haverbeke
 
 Javascript: The Good Parts, Douglas Crockford
-
-Learn SQL the Hard Way, Zed Shaw
-
-Clean Code, Robert C. Martin
 
 Fluent Python, Luciano Ramalho
 
