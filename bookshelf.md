@@ -3,12 +3,11 @@ layout: page
 title: Bookshelf
 permalink: /bookshelf/
 ---
-<h4>-- Last Updated 6/14/2016</h4>
+<h4>-- Last Updated 7/19/2016</h4>
 
 
 <h1> What I'm currently reading </h1>
-
-Practical Object Oriented Design in Ruby, Sandi Metz
+Operating System Concepts, Silberschatz, Galvin, and Gagne
 
 
 <h1> What I've read </h1>
