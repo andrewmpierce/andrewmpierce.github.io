@@ -2,9 +2,9 @@
 layout: page
 title: Bookshelf
 permalink: /bookshelf/
+published: false
 ---
-<h4>-- Last Updated 7/19/2016</h4>
-
+<h4>-- Last Updated 7/19/2016<
 
 <h1> What I'm currently reading </h1>
 Operating System Concepts, Silberschatz, Galvin, and Gagne
