@@ -1,9 +1,18 @@
 ---
+title: "The Pragmatic Programmer"
 layout: post
-published: True
-title: The Pragmatic Programmer
-comments: True
+date: 2015-11-29 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- books I've read
+- Reviews
+category: blog
+author: andrewpierce
+description: Thoughts after reading The Pragmatic Programmer
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
+
 Over the week of Thanksgiving, I read The Pragmatic Programmer. I've heard it recommended
 over and over again and decided I would take the plunge. I'm very glad I did. It
 was a really good experience for me, after spending three months furiously coding, to
