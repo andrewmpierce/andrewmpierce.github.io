@@ -1,8 +1,16 @@
 ---
+title: "Volunteering at RailsBridge"
 layout: post
-published: True
-title: Volunteering at RailsBridgeTriangle
-comments: True
+date: 2016-02-28 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- Rails
+- Volunteering
+category: blog
+author: andrewpierce
+description: My Experience as a RailsBridge TA
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
 ** This post is about [RailsBridge](http://www.railsbridge.org/).
 If you want to check out the curriculum, [it's posted here](http://docs.railsbridge.org/docs/)

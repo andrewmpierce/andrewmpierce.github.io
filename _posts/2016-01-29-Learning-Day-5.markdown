@@ -1,8 +1,15 @@
 ---
+title: "Learning Day 5"
 layout: post
-published: true
-title: Learning Day 5
-comments: True
+date: 2016-01-29 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- Rails
+category: blog
+author: andrewpierce
+description: Learning Rails Day 5
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
 I decided to retitle what I'm doing as just "Learning Day whatever". While I'm focusing a lot of attention on Rails, I'm also doing other stuff, like working on my javascript skills and studying Perl.
 
