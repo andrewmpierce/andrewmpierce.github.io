@@ -1,7 +1,7 @@
 ---
 title: "Week One at The Iron Yard"
 layout: post
-date: 2015-09-96 22:48
+date: 2015-09-06 22:48
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:

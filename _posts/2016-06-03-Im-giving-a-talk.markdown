@@ -5,7 +5,7 @@ date: 2016-06-03 22:48
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
--Professional
+- Professional
 category: blog
 author: andrewpierce
 description: I'm giving a talk at a local alumni meetup

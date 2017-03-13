@@ -1,7 +1,7 @@
 ---
 title: "HAL 9000, Or How I Created an AI"
 layout: post
-date: 2015-09-96 22:48
+date: 2015-09-10 22:48
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:

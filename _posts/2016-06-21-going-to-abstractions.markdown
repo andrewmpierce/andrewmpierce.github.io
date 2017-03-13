@@ -6,7 +6,7 @@ image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - Abstractions
--Conferences
+- Conferences
 category: blog
 author: andrewpierce
 description: I'm going to my first technical conference
