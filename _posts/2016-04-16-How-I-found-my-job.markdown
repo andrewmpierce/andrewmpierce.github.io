@@ -1,9 +1,18 @@
 ---
+title: "How I Found My Job"
 layout: post
-published: True
-title: Tips on how to find a job after code school
-comments: True
+date: 2016-04-16 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- The Iron Yard
+- Job Hunting
+category: blog
+author: andrewpierce
+description: How I found my first job as a software engineer
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
+
 I graduated from The Iron Yard, a code school in Durham, NC, right before Thanksgiving of 2015. I started at my first development job about 2.5 months later, and at the time I'm writing this, I've been there about three months.
 
 I thought it might be interesting to other code school grads or people trying to break into development to share what I did to find my job, and what I'd recommend based on my experience.

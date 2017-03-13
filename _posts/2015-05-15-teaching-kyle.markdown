@@ -1,9 +1,17 @@
 ---
+title: "Teaching My Brother to Code"
 layout: post
-published: True
-title: Teaching My Little Brother to Code
-comments: True
+date: 2016-05-15 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- Mentoring
+category: blog
+author: andrewpierce
+description: Teaching my little brother how to write the codez
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
+
 
 I have a 19 year old little brother named Kyle who's recently shown some interest in learning to code. Luckily, [I really enjoy teaching others](http://andrewmpierce.io/2016/02/28/Volunteering-at-Railsbridge.html) and get a lot of satisfaction from being able to share what I know.
 

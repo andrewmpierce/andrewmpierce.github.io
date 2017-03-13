@@ -1,9 +1,18 @@
 ---
+title: "Intro to Django"
 layout: post
-published: True
-title: Intro to Django and Web Development
-comments: True
+date: 2015-10-09 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- The Iron Yard
+- Django
+category: blog
+author: andrewpierce
+description: Learning Django
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
+
 # My first taste of web development: What is any of this?
 
 I can't lie, week six of The Iron Yard has been hard. Like really hard. I've been

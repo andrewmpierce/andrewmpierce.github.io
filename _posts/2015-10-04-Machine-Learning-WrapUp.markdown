@@ -1,9 +1,17 @@
 ---
+title: "Machine Learning WrapUp"
 layout: post
-published: True
-title: Data Science/Machine Learning Wrap Up
-comments: True
+date: 2015-10-04 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- The Iron Yard
+category: blog
+author: andrewpierce
+description: Wrapping Up Machine Learning
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
+
 # Feelings: Sad, but also excited!
 
 The Iron Yard's Python track (at least at the Durham campus) is set up as a strongly

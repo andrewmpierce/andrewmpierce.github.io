@@ -1,9 +1,17 @@
 ---
+title: "Clean Code"
 layout: post
-published: True
-title: Clean Code
-comments: True
+date: 2016-04-03 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- Books
+category: blog
+author: andrewpierce
+description: My Thoughts on the book Clean Code
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
+
 
 I just finished reading Clean Code, by Uncle Bob. Lately I've been really trying to
 write _better_ code. I feel really confident that in most cases, I can figure out

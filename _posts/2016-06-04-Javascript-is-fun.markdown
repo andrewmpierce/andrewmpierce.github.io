@@ -1,9 +1,18 @@
 ---
+title: "Javascript is Fun"
 layout: post
-published: True
-title: Javascript is Fun
-comments: True
+date: 2016-06-04 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- Professional
+- Javascript
+category: blog
+author: andrewpierce
+description: Javscript is Cool
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
+
 
 Currently I'm working as a full stack developer at AT&T. The backend is in Perl, and the front end is vanilla JS with some jQuery. I also do some work with SQL when I need to update things in our database.
 

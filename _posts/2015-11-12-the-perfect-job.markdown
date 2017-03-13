@@ -1,9 +1,18 @@
 ---
+title: "The Perfect Job"
 layout: post
-published: True
-title: The Perfect Job
-comments: True
+date: 2015-11-12 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- The Iron Yard
+- Job Hunting
+category: blog
+author: andrewpierce
+description: What I want out of my first job
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
+
 
 I officially have a week left at The Iron Yard. Time has really flown by! At this point,
 my next step is job searching. Overall, I feel really good about it. I've worked incredibly hard over the past three months to become a great junior developer and I feel like I have a great skill set to offer my future employer. I love what I'm doing, I love learning, and I love a challenge.

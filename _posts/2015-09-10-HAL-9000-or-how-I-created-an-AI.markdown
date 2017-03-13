@@ -1,9 +1,17 @@
 ---
+title: "HAL 9000, Or How I Created an AI"
 layout: post
-published: true
-title: HAL 9000, or how I made an AI
-comments: True
+date: 2015-09-96 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- The Iron Yard
+category: blog
+author: andrewpierce
+description: I made a super sentient AI in my spare time
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
+
 ## Today I simulated intelligence
 
 I just finished what I think has been the coolest project we have done so far in

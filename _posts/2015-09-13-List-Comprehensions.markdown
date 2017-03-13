@@ -1,9 +1,17 @@
 ---
+title: "Learning List Comprehensions"
 layout: post
-published: true
-title: List Comprehensions
-comments: True
+date: 2015-09-13 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- The Iron Yard
+category: blog
+author: andrewpierce
+description: Lis Comprehensions
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
+
 #The Process of Learning What I Thought I Understood
 
 I had an interesting experience the other day. I was working on an assignment that

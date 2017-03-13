@@ -1,9 +1,17 @@
 ---
+title: "Abstractions Conference"
 layout: post
-published: True
-title: Abstractions Conference
-comments: True
+date: 2016-09-03 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- Professional
+category: blog
+author: andrewpierce
+description: Abstractions Conference in Pittsburgh
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
+
 
 I got back from Abstractions in Pittsburgh about two weeks ago. It was my first time being able to go to tech
 conference, and it was great! I came back feeling really energized about software development, and I

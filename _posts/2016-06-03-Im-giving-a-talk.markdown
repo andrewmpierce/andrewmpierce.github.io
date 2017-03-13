@@ -1,9 +1,17 @@
 ---
+title: "I'm Giving a Talk"
 layout: post
-published: True
-title: I'm Giving a Talk!
-comments: True
+date: 2016-06-03 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+-Professional
+category: blog
+author: andrewpierce
+description: I'm giving a talk at a local alumni meetup
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
+
 
 I'm giving my first talk!
 

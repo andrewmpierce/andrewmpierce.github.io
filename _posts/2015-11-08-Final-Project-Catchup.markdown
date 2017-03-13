@@ -1,9 +1,17 @@
 ---
+title: "Final Project Catchup"
 layout: post
-published: True
-title: Final Project Catchup
-comments: True
+date: 2015-11-08 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- The Iron Yard
+category: blog
+author: andrewpierce
+description: Final Projects at TIY
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
+
 
 WOW! I just realized I haven't written a blog post in a month. I've really just been
 that busy. Honestly. It feels like in the past three weeks, the bottom fell out of

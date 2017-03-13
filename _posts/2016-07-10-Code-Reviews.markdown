@@ -1,9 +1,17 @@
 ---
+title: "Code Reviews Are Awesome"
 layout: post
-published: True
-title: Code Reviews are Awesome
-comments: True
+date: 2016-07-10 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- Professional
+category: blog
+author: andrewpierce
+description: Code Reviews at Work
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
+
 
 I've been at my current job for almost six months now. I've learned an incredible amount in that time, using Perl and Javascript and SQL and learning how to interact with a LAMP stack, as well as Ember. On top of all that, I've learned the general ins and outs of working in a professional development environment, which is arguably the most useful thing.
 
@@ -19,4 +27,4 @@ A dropdown took about ten minutes to code and was an easier solution for the use
 
 Other times, I might get critiqued for not providing proper error handling or not handling some expected edge cases. It all depends on the specific problem and generally how familiar I am with that application and part of the code base.
 
-I learn a lot by tackling new problems, and I learn even more by getting critiques on how to solve them in a better way. Many of the developers in my office have literally been professional developers since before my parents started dating, years and years before I was born. I love having that kind of expertise go into my code critiques and being able to learn every day about better ways to solve problems. 
+I learn a lot by tackling new problems, and I learn even more by getting critiques on how to solve them in a better way. Many of the developers in my office have literally been professional developers since before my parents started dating, years and years before I was born. I love having that kind of expertise go into my code critiques and being able to learn every day about better ways to solve problems.

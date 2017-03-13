@@ -1,8 +1,16 @@
 ---
+title: "Sandi Metz and Grit"
 layout: post
-published: True
-title: Sandi Metz and the Importance of Grit
-comments: True
+date: 2016-03-11 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- Sandi Metz
+- Meetups
+category: blog
+author: andrewpierce
+description: Sandi Metz's talk at Triangle.rb on Grit
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
 
 One of my favorite local meetups to go to is [Triangle.rb](http://www.meetup.com/raleighrb/).

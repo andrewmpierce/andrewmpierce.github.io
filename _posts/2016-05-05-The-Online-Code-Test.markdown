@@ -1,9 +1,17 @@
 ---
+title: "The Online Code Test"
 layout: post
-published: True
-title: The Online Code Test
-comments: True
+date: 2016-05-05 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- Job Hunting
+category: blog
+author: andrewpierce
+description: Online Coding Tests
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
+
 
 Lately I've been reading a [lot](https://medium.com/@evnowandforever/f-you-i-quit-hiring-is-broken-bb8f3a48d324#.9pvmlyqsg) [about](http://www.daedtech.com/hiring-is-broken/) how hiring in tech sucks. More specifically, the interview process for developers is known to be pretty inadequate towards finding great developers who ship great code and contribute to great workplace environments.
 

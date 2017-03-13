@@ -1,8 +1,15 @@
 ---
+title: "Why Cycling is Perfect"
 layout: post
-published: true
-title: Why cycling is just what I need
-comments: True
+date: 2015-09-15 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- The Iron Yard
+category: blog
+author: andrewpierce
+description: Cycling is just what I need
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
 
 

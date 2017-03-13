@@ -1,9 +1,17 @@
 ---
+title: "Why The Iron Yard Works"
 layout: post
-published: true
-title: Why The Iron Yard works
-comments: True
+date: 2015-09-13 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- The Iron Yard
+category: blog
+author: andrewpierce
+description: Why The Iron Yard is Successful
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
+
 I'll admit, I actually played with Python and tried to pick it up on my own before
 I came to The Iron Yard. I had even taken an intro to Java course at UNC. Spoiler
 alert, I HATED my Intro to Java course with a passion. It was boring and dull and I had to take my exams on paper and write code into a blank without the ability to play with it.
