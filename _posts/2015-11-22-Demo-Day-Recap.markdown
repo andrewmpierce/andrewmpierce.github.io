@@ -1,8 +1,16 @@
 ---
+title: "Demo Day Recap"
 layout: post
-published: True
-title: Demo Day Recap
-comments: True
+date: 2015-11-22 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- Demo Day
+- The Iron Yard
+category: blog
+author: andrewpierce
+description: My experience at The Iron Yard demo day
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
 [You can watch my demo here!](https://vimeo.com/146457267)
 

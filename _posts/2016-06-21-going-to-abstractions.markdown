@@ -1,8 +1,16 @@
 ---
+title: "I'm Going to Abstractions"
 layout: post
-published: True
-title: I'm going to Abstractions
-comments: True
+date: 2016-06-21 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- Abstractions
+-Conferences
+category: blog
+author: andrewpierce
+description: I'm going to my first technical conference
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
 
 I'm going to my first full technical conference this August. I'll be at Abstractions

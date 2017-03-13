@@ -1,8 +1,16 @@
 ---
+title: "Week One at The Iron Yard"
 layout: post
-published: true
-title: Week One Overview
-comments: True
+date: 2015-09-96 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- The Iron Yard
+- Week 1
+category: blog
+author: andrewpierce
+description: Week One at The Iron Yard
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
 
 ## Week One Overview

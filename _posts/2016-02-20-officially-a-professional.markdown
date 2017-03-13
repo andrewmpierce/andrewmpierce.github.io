@@ -1,8 +1,15 @@
 ---
+title: "Officially a Professional Developer"
 layout: post
-published: True
-title: I'm Officially a Professional?
-comments: True
+date: 2016-02-20 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- Professional
+category: blog
+author: andrewpierce
+description: I'm a Professional Developer
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
 I'm a legit professional developer now! I started at a junior developer position at AT&T about 2.5 weeks ago and have started to really get into the swing of things.  It's been a lot of fun and also in some ways different than what I expected, although certainly not in a bad way. I thought it would be fun to talk about how my experience has been so far.
 

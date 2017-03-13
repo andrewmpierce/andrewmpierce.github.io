@@ -1,8 +1,16 @@
 ---
+title: "Four Weeks at The Iron Yard"
 layout: post
-published: true
-title: Week Four at The Iron Yard
-comments: True
+date: 2015-09-22 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- The Iron Yard
+- Week 4
+category: blog
+author: andrewpierce
+description: Week 4 at The Iron Yard Recap
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
 
 

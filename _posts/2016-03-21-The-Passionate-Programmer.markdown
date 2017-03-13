@@ -1,9 +1,17 @@
 ---
+title: "The Passionate Programmer"
 layout: post
-published: True
-title: The Passionate Programmer
-comments: True
+date: 2016-03-21 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- Books
+category: blog
+author: andrewpierce
+description: My thoughts after reading The Passionate Programmer
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
+
 I just finished reading The Passionate Programmer by Chad Fowler. I've frequently
 seen it recommended by more senior developers, and I really enjoyed reading it.
 The Passionate Programmer is not really a technical book. Instead, it's divided up into
