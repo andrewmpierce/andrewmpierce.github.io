@@ -1,8 +1,15 @@
 ---
+title: "Rails Day 1"
 layout: post
-published: True
-title: Learning Rails Day 1
-comments: True
+date: 2016-01-25 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- Rails
+category: blog
+author: andrewpierce
+description: Rails Day 1
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
 I spent the past week or so learning Perl and really enjoyed it and learned a lot in the process. I'm no Perl expert, but I can write fairly basic scripts now and read Perl code fairly effectively. I've also done a fair bit of work writing Ruby scripts in the past week, successfully rewriting a Powerball simulator that I initially wrote in Perl, in Ruby.
 

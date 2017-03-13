@@ -1,10 +1,17 @@
 ---
+title: "Apprenticeship Patterns"
 layout: post
-published: True
-title: Apprenticeship Patterns, The Passionate Programmer, and what happened after
-comments: True
+date: 2016-03-27 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- books I've read
+- Reviews
+category: blog
+author: andrewpierce
+description: Thoughts after reading Apprenticeship Patterns
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
-
 Lately I've really upped my productivity by reading during my lunch breaks at work.
 I get an hour lunch and spend about 15-20 minutes eating, then find a secluded
 corner to read something for the remaining 30-45 minutes. As a result, I finished

@@ -1,8 +1,15 @@
 ---
+title: "Rails Day 2"
 layout: post
-published: true
-title: Learning Rails Day 2
-comments: True
+date: 2016-01-26 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- Rails
+category: blog
+author: andrewpierce
+description: Rails Day 2
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
 
 So I had a bit of a change of plans from what I had set out with yesterday. I ended up having an interview today! It was scheduled yesterday, so I ended up changing gears to prep for it with all the limited time I had available. So unfortunately, very little Rails was done yesterday or today (although a little bit was!). Instead I spent a lot of time pouring over Perl and learning the baby step basics of Javascript.
