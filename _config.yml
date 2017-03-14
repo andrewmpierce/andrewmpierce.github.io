@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: /resume.pdf
+resume-url: resume.pdf
 
 url: http://andrewmpierce.github.io
 # your url: http://USERNAME.github.io
