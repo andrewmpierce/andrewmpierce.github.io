@@ -13,8 +13,11 @@ description: I Left AT&T
 ---
 
 The title of this post is pretty straightforward. I left my job! I had been a contracted developer at AT&T for a little over a year and had done
-really well there and learned a LOT. My last blog post was even about getting a promotion there. In terms of a first job in software engineering,
-it was definitely difficult, but I learned an incredible amount and I'm very thankful for my time there and what I learned.
+really well there and learned a lot. My last blog post was even about getting a promotion there. In terms of a first job in software engineering,
+it was definitely difficult, but I learned an incredible amount and I'm very thankful for my time there and what I learned. I was able to go into a
+full stack position where I knew none of their existing tech stack, and I learned it! I only knew Python and some Django going into my job, and I learned
+and used Perl, Javascript, HTML, CSS, jQuery, SQL, Ember, and probably a few other things I'm not thinking of at the moment. It was a really awesome job just
+in terms of learning a lot of new technologies.   
 
 I had been debating leaving AT&T for a few months, and finally decided to just take the leap. I put in notice a few weeks ago and had my last day this
 past Friday. I don't have a dev job lined up, and I'm not actively looking for one! My biggest reason for wanting to leave was that I simply wanted to
