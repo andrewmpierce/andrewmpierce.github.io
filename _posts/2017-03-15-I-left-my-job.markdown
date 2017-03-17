@@ -20,10 +20,9 @@ and used Perl, Javascript, HTML, CSS, jQuery, SQL, Ember, and probably a few oth
 in terms of learning a lot of new technologies.   
 
 I had been debating leaving AT&T for a few months, and finally decided to just take the leap. I put in notice a few weeks ago and had my last day this
-past Friday. I don't have a dev job lined up, and I'm not actively looking for one! My biggest reason for wanting to leave was that I simply wanted to
-get into freelancing and work on some personal projects. I'm really intrigued by the mobile market and want to work on some projects full time and see
+past Friday. I don't have a dev job lined up, and I'm not actively looking for one! I'm really intrigued by the mobile market and want to work on some projects full time and see
 where and what they evolve into. I intend to spend a lot of time building out my portfolio in the coming months and learn some new technologies, and then
-really expand into my own products and the freelancing market.
+really expand into my own products and just see where it goes. 
 
 I loved working at AT&T and learned so much, but it didn't leave me a lot of creative juices left at the end of the day. I felt that by quitting and working
 on myself and my skillset full time, I could make massive strides in my career. I'm really intrigued to see what the future will bring, but so far things have
