@@ -20,4 +20,6 @@ I wanted something that was relatively inexpensive, but would allow me to switch
 
 Eventually I found the Spark desk, by ErgoDriven. Basically, its ~20 bucks shipped from Amazon and its an intentional looking two tiered cardboard standing desk option that sits on tops of your existing desk. I bought it on a whim because of the price, but I ended up REALLY liking it.
 
-For the niche its trying to fill, the Spark is awesome. It comes as precut cardboard and you do a bit of cardboard origami to get it constructed, its not actually as hard as it sounds, and took me about 15-20 minutes to set it up. It's not really intended to be continually broken down and rebuilt, so you'll likely be transporting it in its assembled state.
+For the niche its trying to fill, the Spark is awesome. It comes as precut cardboard and you do a bit of cardboard origami to get it constructed, its not actually as hard as it sounds, and took me about 15-20 minutes to set it up. Once its set up, you definitely won't want to be tearing it down and reconstructing regularly.
+
+One of my major concerns about the desk was wether or not it would be sturdy enough to support an external monitor vs a lighter laptop that it was probably designed for. I've had zero issues with sturdiness and I bang on my keyboard and lean on it like anything else. It's constructed in a very smart way, and I always feel like its very balanced. 
