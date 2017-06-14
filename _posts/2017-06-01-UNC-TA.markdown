@@ -1,5 +1,5 @@
 ---
-title: "My experience as a TA"
+title: "My Experience as a TA"
 layout: post
 date: 2017-06-01 13:01
 image: /assets/images/markdown.jpg
