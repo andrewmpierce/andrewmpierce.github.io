@@ -10,7 +10,7 @@ tag:
 - How to
 category: blog
 author: andrewpierce
-description: A basic example of how to use git branches.
+description: A basic example of how to use git branches
 # jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
 
