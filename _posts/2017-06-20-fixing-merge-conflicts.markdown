@@ -1,7 +1,7 @@
 ---
 title: "Git Jr. - How Do I Fix Merge Conflicts?"
 layout: post
-date: 2017-06-15 09:01
+date: 2017-06-20 09:01
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -78,13 +78,13 @@ The commit thats causing the problem seems to be something that this Andrew Pier
 
 ![An image showing the usage of git show](../assets/images/fixing-merge-conflicts/git-show-terminal.png "git show")
 
-You may be asking yourself what that string of letters and numbers came from. Without getting too deeply into it, it's called a SHA1 and is a [unique identifier](https://www.theregister.co.uk/2017/02/23/google_first_sha1_collision/) for each commit. We can use this to signal to Git that we want to access something about that particular commit.
+You may be asking yourself what that string of letters and numbers came from. Without getting too deeply into it, it's called a SHA1 and is a [unique identifier](https://www.theregister.co.uk/2017/02/23/google_first_sha1_collision/) for each commit. On the git log image above, its the string characters in yellow at the top of each commit entry. We can use this to signal to Git that we want to access something about that particular commit.
 
 The command git show will just show us the commit. It will again open in a Vi window and look like this:
 
 ![An image showing a git commit](../assets/images/fixing-merge-conflicts/git-show.png "git show")
 
-Awesome. This definitely confirms that this commit is doing something weird, and we can see that our other developer hasn't changed anything else.
+Awesome. This definitely confirms that this commit is causing the change, and we can see that our other developer hasn't changed anything else.
 
 Okay so at this point you talk to this Andrew guy and sync up about what the function is supposed to actually look like. Turns out, your boss wants it to be a console.info line with a comment. Thats no problem though, we just go in and delete the extra characters that Git added and make our code look like how everyone agreed it should actually look.
 ![An image showing the final code version](../assets/images/fixing-merge-conflicts/final-code.png "The final code version")
