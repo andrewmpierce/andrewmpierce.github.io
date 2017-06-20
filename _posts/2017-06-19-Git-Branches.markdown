@@ -83,7 +83,7 @@ It looks exactly like our old add-date branch! Sweet! We could then go through w
 
 Git branches are a really great way to keep your master branch working smoothly, while allowing you to break as many things as you need to in the development process in order to ultimately fix or add something new. As long as anything you break is on your feature branch (add-date in this case), it won't affect master unless you consciously merge it.
 
-This was a pretty straightforward example with a pretty simple merge process, but every now and again you'll get a merge conflict, which just means that Git can't figure out how these two files are intended to merged together. I'll save that discussion for my next post.
+This was a pretty straightforward example with a pretty simple merge process, but every now and again you'll get a merge conflict, which just means that Git can't figure out how these two files are intended to merged together. [I'll save that discussion for my next post.](http://andrewmpierce.io/fixing-merge-conflicts/)
 
 I hope this post was helpful for anyone using Git branches for the first time or trying to get a handle on why you might want to use them, if something doesn't make sense here, please let me know. Leave a comment or hit me up on Twitter. I'd love to help you out.
 
