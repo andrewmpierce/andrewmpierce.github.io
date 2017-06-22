@@ -23,9 +23,9 @@ git push
 
 These three commands are what I like to call the git trifecta. Basically everyone who's used git in any capacity has at least used these three commands. They may not know what each one is really doing, but most developers know that you can do this and magically your code is on Github. Today we are going to go over the first one of the three, git add.
 
-Git keeps track of changes in your code through it's index. Without getting too involved, its a snapshot of the current state of your code. When you run the command git add, you are updating the index to include the relevant code you added.
+Git keeps track of changes in your code through it's index. Without getting too involved, it's a snapshot of the current state of your code. When you run the command git add, you are updating the index to include the relevant code you added.
 
-This is why if you run the command git commit and you haven't run git add since the last commit, you get this:
+This is why if you run the command `git commit` and you haven't run git add since the last commit, you get this:
 
 ![An image showing a git commit fail](../assets/images/git-add/git-commit.png "git commit")
 
@@ -35,7 +35,7 @@ Whenever I explain this in class to my students, they pretty much always reply w
 
 The biggest reason is that commits should ideally be pretty distinct chunks of work. Let's say that you're working in a repo and you fix a broken link and then go and change some CSS around. That should really be two separate commits. One where you fix the broken link, and then another with your CSS changes. There are a couple reasons for this:
 
-1) It makes it easier for future you and other developers to follow along with changes. When you have lots of separate issues being fixed in a single commit, it can get confusing to see which ones are related and which aren't. If they're separate commits, you don't have that problem.
+1) It makes it easier for future you and other developers to follow along with changes. When you have lots of separate issues being fixed in a single commit, it can get confusing to see which ones are related and which aren't. If they're separate commits, you don't have that problem. You can easily traverse through the git log and see all the commits and go check out specific ones that fixed specific things.
 
 2) If you have to revert a commit, you're only reverting a specific change. Let's say that your team decides that they actually don't want these CSS changes that you made. If you have distinct commits, they only have to worry about getting rid of that whole commit. If you had also fixed that broken link or done a more intensive fix, they'd have to make sure that those bug fixes stayed appropriately.
 
@@ -54,11 +54,11 @@ The Javascript:
 ![An image showing our first JS file](../assets/images/git-add/js-original.png "JS file")
 
 
-So let's say you go in to our Javascript file to make our alert a little more friendly, instead of "Hello World", its going to say "Hello World! It's a beautiful day!". This might be a little over the top, but it is a at least a very friendly alert message.
+So let's say you go in to our Javascript file to make our alert a little more friendly, instead of "Hello World", its going to say "Hello World! It's a beautiful day!". This might be a little over the top, but it is at least a very friendly alert message.
 
 Anyway, as you're doing that, you notice that our link in the HTML page goes to 'https://googl.com' instead of 'https://google.com'. You decide to fix that as well.
 
-Following good protocol, you started your changes on a new branch, changing-button-text, if we run the command 'git diff master' we see this:
+Following good protocol, you started your changes on a new branch, changing-button-text, if we run the command `git diff master` we see this:
 
 ![An image showing our git diff](../assets/images/git-add/git-diff.png "Git Diff")
 
@@ -67,28 +67,28 @@ Git diff is a great tool that simply shows the differences between branches or c
 
 However, you're also aware that these should be separate commits, and should have their own branches. You have a couple of options here with git add.
 
-1) We can use 'git add file_name'. So in this case we can do 'git add hello.js' or 'git add hello.html'. This also works for directories. Git will only add changes from that particular file.
+1) We can use `git add file_name`. So in this case we can do `git add hello.js` or `git add hello.html`. This also works for directories. Git will only add changes from that particular file.
 
-Our initial 'git status' command returns this:
+Our initial `git status` command returns this:
 
 ![An image showing our git status](../assets/images/git-add/git-status.png "Git Status")
 
 Git recognizes that we've made changes in two files, but also tells us that nothing has been added and so nothing is ready to commit.
 
-So from here we can just do the command 'git add hello.js' to only add the changes relevant to this branch.
+So from here we can just do the command `git add hello.js` to only add the changes relevant to this branch.
 
 ![An image showing our status after running git add hello.js](../assets/images/git-add/git-add-hello-js.png "Git add")
 
 So this status now shows us that git still recognizes that we only have added the changes in the js file. We can run the command git commit and that commit will only show changes from the hello.js file.
 
-If we run the command 'git log' after making that commit the first one we get back is this:
+If we run the command `git log` after making that commit the first one we get back is this:
 
 ![An image showing our git log after changing the button text](../assets/images/git-add/git-commit-change-button-text.png "Git commit for changing button text")
 
-If we then run the command 'git show' with the SHA1 (I discuss this in my branching post), we see the full
+[If we then run the command `git show ee32dbab6882fe2fab9f4688b731625fcd3a28fe`](http://andrewmpierce.io/Git-Branches/), we see the full
 commit and see that its only touched things from that js file.
 
-![An image showing git show after committing the js file](../assets/images/git-add/git-show.png "Git show after adding JS file")
+![An image showing git show after committing the js file](../assets/images/git-add/git-show-js.png "Git show after adding JS file")
 
 Sweet! Now we can merge this branch into master and deal with the other change we made.
 
@@ -102,7 +102,7 @@ From here we can just make a branch for the link fix, and then add the changes f
 
 Now we've fixed everything up! There are other ways to use git add though.
 
-2) We can use git add --patch, and it will go through the changes one by one. This is awesome if You have changes to unrelated things in the same file. Git will interpret each change as a hunk and you can choose to either add the hunk or move to the next one.
+2) We can use `git add --patch`, and it will go through the changes one by one. This is awesome if you have changes to unrelated things in the same file. Git will interpret each change as a hunk and you can choose to either add the hunk or move to the next one.
 
 ![An image showing git add --patch](../assets/images/git-add/git-add-patch.png "showing git patch")
 
@@ -110,13 +110,13 @@ As you can see, there are lots of options here, but its an interactive shell, an
 
 ![An image showing git add --patch options](../assets/images/git-add/options.png "showing git patch options")
 
-Most likely you'll end up using the y, n, and maybe s keys the most.
+You'll enter in one of the options, probably the y or n key to add a change or not, and then it will move on to the next hunk and you will keep doing the same thing until you are out of code changes to review. It will only add the changes that you've okayed to the git index.
 
-From here you can move on and do the same thing we did earlier with adding specific files. You can add the specific changes you want, merge those into master, and then move on to merging in separate changes in a new branch.
+From here you can move on and do the same thing we did earlier with adding specific files. You can add the specific changes you want, merge those into master, and then go on to merge in separate changes in a new branch.
 
-3) While I wouldn't recommend doing it in this specific case, we can also use 'git add .'. This will add all the changes we've made in the entire directory. It's ideal when all the changes you've made are intended to go towards the same commit. The . means that you are referring to the entire directory you are in. The . is a UNIX thing and is pretty universal for command line type stuff.
+3) While I wouldn't recommend doing it in this specific case, we can also use `git add .`. This will add all the changes we've made in the entire directory. It's ideal when all the changes you've made are intended to go towards the same commit. The . means that you are referring to the entire directory you are in. The . is a UNIX thing and is pretty universal for things you'll be doing on any kind of UNIX command line.
 
-Realistically, for most of the work you're doing you'll find yourself using 'git add .'. I find myself using 'git add .' the most, but it will end up depending a lot on your workflow and codebase.
+Realistically, for most of the work you're doing you'll find yourself using `git add .`. I find myself using `git add .` the most, but it will end up depending a lot on your workflow and codebase.
 
 
 I hope this has been a decent intro to git add. If you have specific questions about it. Please reach out to me on twitter or through a comment here. I'd love to talk to you about it.
