@@ -1,7 +1,7 @@
 ---
 title: "Git Jr. - What is git add?"
 layout: post
-date: 2017-06-20 09:01
+date: 2017-06-22 09:01
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
