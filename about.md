@@ -4,16 +4,18 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi! I am a software engineer based in Durham, NC. I went to undergrad at UNC Chapel Hill (Go Heels, Go America!), then went to an intensive code school called The Iron Yard. Afterwards I transitioned to a role as a software engineer at AT&T for a little over a year, where I worked on internal tools.
+<p>Hi! I am a software engineer based in NYC and I recently moved from Durham, NC.
+I graduated from UNC Chapel Hill in 2015, then worked as a web developer at AT&T,
+taught at the UNC Coding Boot Camp for a semester, and most recently worked at a
+Rails consultancy called SciMed before I moved to New York. </p>
 
-Now I'm working at the UNC Coding Bootcamp as a Teaching Assistant and pursuing some personal projects.</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
+	<li>Ruby</li>
+	<li>Rails</li>
+	<li>Linux know-how</li>
 	<li>Javascript</li>
-	<li>Python</li>
-	<li>Perl</li>
 	<li>Git</li>
-	<li>MySQL</li>
 </ul>
