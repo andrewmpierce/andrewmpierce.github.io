@@ -1,5 +1,5 @@
 ---
-title: "Why am I going to the Recurse Center?"
+title: "What I want to work on at the Recurse Center"
 layout: post
 date: 2018-12-01 08:00
 image: /assets/images/markdown.jpg
