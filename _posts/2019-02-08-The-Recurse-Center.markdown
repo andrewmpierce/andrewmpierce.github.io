@@ -1,7 +1,7 @@
 ---
 title: "What I want to work on at the Recurse Center"
 layout: post
-date: 2018-12-01 08:00
+date: 2019-02-08 08:00
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -17,6 +17,7 @@ In a little over a week I'll be beginning a batch at the Recurse Center in NYC. 
 Some things I'm really excited about/plans for my time there: 
 
 1) Deep diving into more of the things that web frameworks give us:
+
 There are lots of things that most of the web developers I talk to have a cursory understanding of, but don't REALLy understand what's happening. I'm talking about things like routing, database connections, even serving up your front end to the browser. How does all that really work? On a day to day basis its not critical to know, since the frameworks we use hide those pretty nicely. 
 
 
