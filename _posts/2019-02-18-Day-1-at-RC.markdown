@@ -1,0 +1,41 @@
+---
+title: "Day 1 at the Recurse Center"
+layout: post
+date: 2019-02-18 08:00
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- Recurse
+category: blog
+author: andrewpierce
+description: Day 1 at RC
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+---
+
+Today is my first day at the Recurse Center! It's been a whirlwind of meeting new people from my batch, the batch before mine, and alumni in the space. Everyone is _super_ nice and there's definitely a wide range in people's experience and interests. There's a lot of interest in Rust and a lot of Python and ML. There don't seem to be as many people looking to focus on more web dev centric topics or on Ruby, but most people seem to think my idea to build my own web framework is pretty nifty, and I think I'll be able to get a lot of help and opinions on it when I get to that point.
+
+My goal for the day has been to get a better understanding of the HTTP protocol, since it feels like a reasonable first step for my framework is to build an HTTP server in Ruby.
+
+The thing is, I've been a developer for a few years and know about the HTTP protocol and know the differences in a GET, POST, PUT, and DELETE request. The vast majority of the time, that's all you really need to know to be an effective web developer. However, I really want my running theme at RC to be "Yes, I understand this well enough to use it, but How do???"
+
+I vaguely knew something about the HTTP protocol being related to TCP, but after that its really just a bunch of letters to me.
+
+-------------------------------------------------------------------
+
+What I learned day 1!
+
+I ended up learning a lot about sockets. A socket is just an endpoint for receiving information. You can make a system call and create a socket on your system at a defined port where it's listening, and then just do stuff! The protocol that I had heard of before is TCP or TCP/IP. TCP/IP is the most well known of networking protocols at least for web developers and it's what we're working with under the hood during web development.
+
+A connection requires a server socket, which is listening on a distinct port, and a client socket which is attempting to connect with the server socket.
+
+The interesting bit here is after the connection has been accepted by the server socket, it actually sends back a _new_ socket to begin the actual connection and exchange data. TCP connections define a unique connection with a 4-tuple: (1) local address (2) local port (3) foreign address (4) foreign port. This way the server socket can potentially be communicating with many unique client sockets.
+
+I found this [ruby documentation](https://docs.ruby-lang.org/en/2.1.0/Socket.html) to be really beneficial in helping me to wrap my head around sockets.
+
+This [Stack Overflow question](https://stackoverflow.com/questions/774571/server-vs-client-socket-low-level-details) was also really great in understanding the difference between server and client sockets.
+
+
+I came away from today with a really solid start. I don't expect to come away from this as a networking expert, but I do feel like in a couple hours I have a much better understanding of what is one of the most core parts of the Internet.
+
+
+Tomorrow I continue my adventures and maybe get to the HTTP part of things!
