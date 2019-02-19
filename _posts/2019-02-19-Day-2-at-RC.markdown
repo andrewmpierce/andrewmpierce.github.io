@@ -1,0 +1,39 @@
+---
+title: "Day 2 at the Recurse Center"
+layout: post
+date: 2019-02-19 08:00
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- Recurse
+category: blog
+author: andrewpierce
+description: Day 2 at RC
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+---
+
+Today was great! We had a pairing session in the morning and worked on creating an implementation of [Mastermind](https://en.wikipedia.org/wiki/Mastermind_(board_game)) with Max from the batch before mine. He was great to pair with and we had a basic implementation done in the hour time frame. I really love pairing and this positive experience makes me think about how hard it is to do properly and in a way thats fun for both people.
+
+I consider myself a pretty good pairing partner, and I have a lot of thoughts on pairing that I kind of think should make it into their own blog post at some point.
+
+
+After pairing I moved back to learning about HTTP servers!
+
+-------------------------------------------------------------
+
+It turns out that the basic premise of an HTTP server is much simpler than I originally thought! I had tried a few times in the past to understand blog posts like [this one that I referenced a lot](https://blog.appsignal.com/2016/11/23/ruby-magic-building-a-30-line-http-server-in-ruby.html) but they never were 100% clear to me. After yesterday's adventure with TCP sockets though, it all makes a lot of sense!
+
+After getting a grasp on the simplest of HTTP servers, I started learning about Rack. I had seen Rack errors before, but never ended up needing to learn much about it. I now understand Rack is middleware and, among other things, acts as an HTTP API so we can use whatever web server we want. At my last job we mostly used Passenger on deployed applications, but I've also seen Puma, Mongrel, Thin, WEBrick, and a few others from time to time.
+
+Basically Rack accepts a tiplet of a status code, headers, and response body from the web framework, and then sends that along to the http web server so it can be sent to the client.
+
+I suppose this means that technically I don't have to use Rack in creating my own framework. I mean technically I could also use an existing HTTP server instead of the less robust one I would end up building in the time I have.
+
+*~~~ Andrew thinks about this for a few minutes ~~~~*
+
+I think it makes a lot of sense to write my own web server, just for the experience, and then make it and my eventual larger framework Rack compatible, so I can hopefully have some experience there with how Rack works.
+
+I've really just done a lot of ~thinking~ today in how I will end up writing my final (whatever that means) web server. I feel like I have a much better grasp on how to go about writing sometime more complex that will support a full framework and now actually have a pretty good understanding of what an HTTP server is.
+
+
+Tomorrow I have plans to pair with Gargi on building a debugger from scratch. I will definitely be way out of my depth on this one, but I'm pretty excited about it.
