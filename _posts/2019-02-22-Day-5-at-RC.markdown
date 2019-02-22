@@ -1,0 +1,51 @@
+---
+title: "Day 5 at the Recurse Center"
+layout: post
+date: 2019-02-22 08:00
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- Recurse
+category: blog
+author: andrewpierce
+description: Day 5 at RC
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+---
+
+Today I am moving back to some web stuff after adventures in making a debugger in Go.
+My goal is to use Ruby to be able to connect to a simple Postgres database and feed
+whatever data I have in there back out to my baby HTTP webserver and give that back to the client. I think this is pretty doable for today, but its not something I've done
+without a framework and its going to pretty important to figure out how to do that
+for my eventual framework! I used to have to do similar things when I worked at AT&T,
+since we didn't use a framework, but that was years ago and in Perl, so we'll see
+how it goes!
+
+--------------------------------------------------------------------------------------
+
+EOD Update: It went really well!
+
+My goal for the day was just to take my existing small http server and be able to
+connect to a postgres database and show all the users in a user table and hopefully
+add new users through a simple web form. I got all of that done without too much
+of an issue. It's pretty dirty looking code and really reminds me of some nasty
+PHP I had to deal with a few times at AT&T, but it works!
+
+Now, I haven't really written a 'framework' yet, I mostly just wanted to feel out
+how to do the kind of request parsing and database connection that I knew was going
+to be necessary.
+
+Now that I've had a chance to feel out how some of these look sans framework, here are
+some of my goals for the next week. I'm not sure if I can knock out all of them,
+but I think at least the first 4 are very doable.
+
+1) `fnz new project_name` will create a new project and initialize a Postgres database.
+2) `fnz g migration migration_name` will generate an empty timestamped SQL file with
+the users migration_name that they can then fill with SQL.
+3) `fnz apply migrations` will run all migrations that are pending.
+4) Users can submit raw SQL to fnz to update their database.
+5) Users can serve HTML files!
+6) Routing????
+
+
+I still have a lot of thinking to do about how all of this will look, but I'm really
+happy with today's progress. 
