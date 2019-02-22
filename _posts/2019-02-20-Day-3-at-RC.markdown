@@ -1,0 +1,29 @@
+---
+title: "Day 3 at the Recurse Center"
+layout: post
+date: 2019-02-20 08:00
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- Recurse
+category: blog
+author: andrewpierce
+description: Day 3 at RC
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+---
+
+Today I paired with Gargi on creating a debugger from scratch in Go. I've never
+even really looked at Go before and typically haven't done much with the types of syscalls
+required to construct a debugger.
+
+It was really fascinating! The basic premise is using `ptrace` to attach to another process
+and be able to stop execution at the given breakpoint. This involves finding the correct address in
+the assembly code of the target program and placing in a software interrupt, and from there,
+being able to execute code and the other things that a debugger does.
+
+We had some environment issues in the morning, but started making some decent headway
+in the afternoon. We were able to `PTRACE_ATTACH` to a child process and `PTRACE_PEEKDATA`
+to look at a random address. We ran into lots of interesting hurdles, and it was a
+tiring but really beneficial day.
+
+Tomorrow we plan to keep hacking on it!

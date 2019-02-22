@@ -1,0 +1,39 @@
+---
+title: "Day 4 at the Recurse Center"
+layout: post
+date: 2019-02-21 08:00
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- Recurse
+category: blog
+author: andrewpierce
+description: Day 4 at RC
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+---
+
+I woke up really tired today. Pairing all day the yesterday on something totally new
+to me and the general overwhelmingness of RC probably caught up to me. That aside,
+Gargi and I returned to the world of `ptrace` and Go. It's definitely the kind of
+project where it doesn't feel like we're making that much concrete progress, but
+I at least am definitely learning a lot just by messing around with it.
+
+Today we were able to write some Go that kicked off a simple script
+and prints out the number 1 through 100 with a 1 second sleep between each number.
+We then grab the pid of the counter script, and `PTRACE_ATTACH`. Then we
+wait for the counter script to stop and at this point we should theoretically be
+able to do things with our traced process. We hit a lot of issues though. We had
+problems were, after waiting, the counter process couldn't be found by its pid, and
+didn't appear to be executing, as we couldn't see any of the output it should have
+been printing to the command line. Our goal had been to use `PTRACE_SINGLESTEP` once
+the program had stopped to be able to step through a few instructions, but we had a
+lot of trouble getting it to work. Yesterday we were able to attach and look at different
+registers, so we were both a bit confused. We messed around with this for a bit but didn't
+make any huge breakthroughs.
+
+I've learned a lot about debuggers and `ptrace`, but I'm also excited to shift
+tomorrow to working on my web stuff a bit more.
+
+Gargi and I read through [this series on debuggers](https://eli.thegreenplace.net/2011/01/23/how-debuggers-work-part-1/) and
+it was super helpful! I think we are tentatively planning on returning to this on
+Monday.
