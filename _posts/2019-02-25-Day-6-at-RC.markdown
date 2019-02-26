@@ -1,0 +1,43 @@
+---
+title: "Day 6 at the Recurse Center"
+layout: post
+date: 2019-02-25 08:00
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- Recurse
+category: blog
+author: andrewpierce
+description: Day 5 at RC
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+---
+
+Day 6! Today my goal is to continue on my web framework. On day 5 I mostly played
+around with database connections and serving up simple html with Ruby. Today I'd
+like to start making more of an actual framework.
+
+----------------------------------------------------------------------------------
+
+Today I was super tired. There's no real reason for it, I just woke up after a normal
+amount of sleep being way tired. I got a little bit of work done on my framework,
+but it was a tough slog if I'm being honest. After struggling a bit with this I
+started thinking about the other things I want to accomplish while I'm at RC and
+one of them was to improve my workflow and efficiency. I spent probably two or
+three hours a few days ago getting a decent vimrc set up again, and it was really valuable.
+I've used Vim in the past and had pretty good success, but never stuck to it long
+enough to really reap the benefits. I've been using Vim every day and I'm definitely
+feeling my familiarity with it coming back.
+
+Then I was thinking about how part of my problem is that I'm not actually that great
+of a typist. I'm okay, especially with just letters and vanilla punctuation, but
+once you add in numbers and the exotic stuff found in typical software, like square and
+curly brackets, semicolons, quotations, etc, I start to fall off pretty quick.
+
+I did some googling and saw some suggestions for [Typing Club](https://www.typingclub.com)
+ and [Typing.io](https://typing.io).
+They both have free plans and my brain was moving way too slowly to do anything else, so I took
+their placement test. Trying very hard to touch type only, I scored at 35 wpm.
+That's not abysmal or anything, but I don't think its that great either.
+
+I played with that some today and then went home a little earlier than normal to rest
+up for tomorrow. 
