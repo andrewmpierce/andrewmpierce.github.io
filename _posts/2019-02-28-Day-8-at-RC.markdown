@@ -1,0 +1,44 @@
+---
+title: "Day 8 at the Recurse Center"
+layout: post
+date: 2019-02-28 08:00
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- Recurse
+category: blog
+author: andrewpierce
+description: Day 8 at RC
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+---
+
+Today my goal for fnz is to make progress towards figuring out routing! It's one
+of the must haves, even for micro frameworks, so I'm pretty excited to get into it.
+My goal for right now is to emulate Sinatra with this basic style
+
+```
+get '/' do
+  .. show something ..
+end
+
+post '/' do
+  .. create something ..
+end
+
+put '/' do
+  .. replace something ..
+end
+
+patch '/' do
+  .. modify something ..
+end
+
+delete '/' do
+  .. annihilate something ..
+end
+```
+
+At this point I think that will mean defining methods for each of the HTTP request
+types and being able to pass a route and block to those methods. I'm not 100%
+sure of what the routing situtation will look like when I'm done though. I think if
+I just start getting into the weeds of it I'll start to see a path. 

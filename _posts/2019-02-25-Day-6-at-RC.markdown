@@ -8,7 +8,7 @@ tag:
 - Recurse
 category: blog
 author: andrewpierce
-description: Day 5 at RC
+description: Day 6 at RC
 # jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
 
@@ -40,4 +40,4 @@ their placement test. Trying very hard to touch type only, I scored at 35 wpm.
 That's not abysmal or anything, but I don't think its that great either.
 
 I played with that some today and then went home a little earlier than normal to rest
-up for tomorrow. 
+up for tomorrow.

@@ -1,0 +1,23 @@
+---
+title: "Day 7 at the Recurse Center"
+layout: post
+date: 2019-02-26 08:00
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- Recurse
+category: blog
+author: andrewpierce
+description: Day 7 at RC
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+---
+
+fnz is going well! Today I wrote some aspirational docs, basically I just outlined
+the interface that I want my users to work with later. It was definitely helpful
+for me to have a better roadmap for the features I want to implement. I did a lot
+of work to clean up my big mess of Ruby web application into several helper classes.
+Right now I just have the helper classes in a `gem` folder, but I'm thinking next
+next week I will see if I can package those as a gem. I've never actually done
+that before and I think it will be a nice learning experience.
+
+I'm getting closer and closer to real framework! 
