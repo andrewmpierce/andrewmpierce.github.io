@@ -40,5 +40,5 @@ end
 
 At this point I think that will mean defining methods for each of the HTTP request
 types and being able to pass a route and block to those methods. I'm not 100%
-sure of what the routing situtation will look like when I'm done though. I think if
-I just start getting into the weeds of it I'll start to see a path. 
+sure of what the routing situation will look like when I'm done though. I think if
+I just start getting into the weeds of it I'll start to see a path.

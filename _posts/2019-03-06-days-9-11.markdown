@@ -1,0 +1,47 @@
+---
+title: Days 9-11 at RC
+layout: post
+date: 2019-03-06 08:00
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- Recurse
+category: blog
+author: andrewpierce
+description: I missed a few days!
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+---
+
+My last update talked about how I was starting to look at routing on fnz. It's been
+a little tougher than I expected! It's not that hard to _define_ routes, but I was
+having a lot of trouble figuring out how I could load my routes when a fnz application
+was initialized without it being too weird for a potential user. I circled this problem
+for a few days, played around with it, left it and played with other non-fnz things
+and finally decided to take a look at [Destroy All Software](https://www.destroyallsoftware.com/screencasts/catalog) to see how they
+handled routing in a screencast about building a framework. My goal with fnz was to
+reference Destroy All Software's screencasts on the topic as little as possible, but
+I was feeling pretty stuck on it.
+
+It turns out the one kind of key things I needed was the `instance_eval` method,
+which I had never used before. While it's something I probably would be very careful
+about using in a traditional web app for fear of code injections from bad actors,
+it seemed like a good call in this case.
+
+I was able to define an App which was initialized with a do block, the do block
+is then passed to `instance_eval` in the initialize method and my routes are created.
+
+```
+FNZ = Fnz.new do
+  get './' do
+    './public/index.html'
+  end
+end
+```
+
+`get` is a defined method on my Fnz class which creates a get route with an address
+and a block. In this case it would just return the file to be served, but we could
+do fancier things with it as well.
+
+
+I was really happy to get unstuck on this problem. I think I will take a break from
+fnz for a few days before really wrapping up routing and continuing to new things. 
