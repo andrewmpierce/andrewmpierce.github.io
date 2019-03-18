@@ -1,0 +1,31 @@
+---
+title: Week 4 Recap and Week 5 plans
+layout: post
+date: 2019-03-18 08:00
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- Recurse
+category: blog
+author: andrewpierce
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+---
+
+I missed a few days again. Today is the start of week 5 at RC! I think I'm going
+to switch to a weekly format now. Week 4 was my least productive week so far in some
+ways, I didn't really work on my framework. I did a lot of interview prep, which was
+great, and I skimmed a textbook on Operating Systems and took a lot of notes.
+In a few days I certainly didn't learn ALL the concepts in Operating Systems Concepts,
+but I learned what mutexes and semaphores are and some basics about memory management
+and other stuff. It was pretty cool and I think a pretty good use of my time to do
+a fast and furious overview. I've also been using InterviewCake to prep myself and
+working through one of Stephen Grider's courses on Udemy to work on some interview prep.
+
+For Week 5 my goal is to buckle down and finish my framework enough that I can feel
+good being 'done' with it. I have the basics of routing and some basic database
+connection stuff done, and I think its feasible to get it to an okay state in the next
+week.
+
+I also intend on doing more interview prep stuff this week, as I think it will be
+really valuable going into the second half of RC when I'll be really focusing more on
+interviewing and what I want to be doing post RC. 
